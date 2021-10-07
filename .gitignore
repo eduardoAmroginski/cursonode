@@ -4,5 +4,6 @@ node_modules/
 
 *.zip
 *.rar
+*file*.txt
 
 package-lock.json
