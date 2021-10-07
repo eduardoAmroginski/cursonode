@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "bootstrap": "^5.1.2"
+    "bootstrap": "^5.1.2",
+    "nodemon": "^2.0.13"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "name": "cursonode",
   "description": "Repositório do Curso de NodeJS da Hcode",
