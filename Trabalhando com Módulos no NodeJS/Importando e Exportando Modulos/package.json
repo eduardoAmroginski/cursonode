@@ -1,0 +1,11 @@
+{
+  "name": "importando-e-exportando-modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module-02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Amroginski",
+  "license": "ISC"
+}
