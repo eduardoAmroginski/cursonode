@@ -1,0 +1,6 @@
+Para iniciar um projeto passando informações para o package.json, use:
+    npm init
+
+
+Para iniciar um projeto não passando informações para o package.json, use:
+    npm -y init
